@@ -1,4 +1,4 @@
 # hello-world
 learning github
 
-I'm a second year computer science student @ Swansea Uni. My main (and probably only) programming language is Java, although I do know quite a bit of python.
+I'm a second year computer science student @ Swansea Uni. My main programming language is Java, I also know  a bit of python.
